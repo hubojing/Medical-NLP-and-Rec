@@ -1,5 +1,5 @@
-# 推荐算法
-- [2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
+# 药品推荐
+- [WWW 2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
 [CODE](https://github.com/yangnianzu0515/MoleRec)
 - [NeurIPS 2022] Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records
 [CODE](https://github.com/ssshddd/DrugRec)
