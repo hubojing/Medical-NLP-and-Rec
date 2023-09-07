@@ -1,4 +1,12 @@
-# 论文
+# 推荐算法
+- [2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
+[CODE](https://github.com/yangnianzu0515/MoleRec)
+- [NeurIPS 2022] Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records
+[CODE](https://github.com/ssshddd/DrugRec)
+- [2018] Kernelized rank learning for personalized drug recommendation
+[CODE](https://github.com/BorgwardtLab/Kernelized-Rank-Learning)
+
+# 信息抽取
 - [2022] A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text
 [PDF](https://arxiv.org/pdf/2203.03823)
 [CODE](https://github.com/syuoni/eznlp)
