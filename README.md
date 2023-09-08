@@ -21,3 +21,7 @@
 - [2019] Fine-tuning BERT for Joint Entity and Relation Extraction in Chinese Medical Text
 [PDF](https://arxiv.org/pdf/1908.07721)
 [CODE](https://github.com/genggui001/fine_tuning_bert_for_joint_entity_and_relation_extraction_in_chinese_medical_text)
+
+# 预训练模型
+- ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
+- BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining
