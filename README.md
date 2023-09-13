@@ -1,6 +1,8 @@
 # 药品推荐
 - [WWW 2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
 [CODE](https://github.com/yangnianzu0515/MoleRec)
+- - [2023] Knowledge-Enhanced Attributed Multi-Task Learning for Medicine Recommendation
+[PDF](https://dl.acm.org/doi/10.1145/3527662)
 - [NeurIPS 2022] Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records
 [CODE](https://github.com/ssshddd/DrugRec)
 - [2018] Kernelized rank learning for personalized drug recommendation
