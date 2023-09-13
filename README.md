@@ -10,6 +10,8 @@
 - [IJCAI 2021] SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations
 [PDF](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210502711Y/EPRINT_PDF)
 [CODE](https://github.com/ycq091044/SafeDrug)
+- [2021] Drug Package Recommendation via Interaction-aware Graph Induction∗
+[PDF](https://arxiv.org/pdf/2102.03577)
 - [AAAI 2019] GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination
 [PDF](https://arxiv.org/abs/1809.01852)
 [CODE](https://github.com/sjy1203/GAMENet)
