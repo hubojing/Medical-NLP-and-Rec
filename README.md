@@ -4,9 +4,23 @@
 [CODE](https://github.com/yangnianzu0515/MoleRec)
 - [2023] Knowledge-Enhanced Attributed Multi-Task Learning for Medicine Recommendation
 [PDF](https://dl.acm.org/doi/10.1145/3527662)
+- [arxiv 2023] Computational Approaches for Predicting Drug-Disease Associations: A Comprehensive Review
+[PDF](https://arxiv.org/pdf/2309.06388.pdf)
+- [KDD 2022] 4SDrug: Symptom-based Set-to-set Small and Safe Drug Recommendation
+[PDF](http://www.cs.emory.edu/~jyang71/files/4sdrug.pdf)
+[CODE](https://github.com/Melinda315/4SDrug)
 - [NeurIPS 2022] Debiased, Longitudinal and Coordinated Drug Recommendation through Multi-Visit Clinic Records
 [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/b295b3a940706f431076c86b78907757-Paper-Conference.pdf)
 [CODE](https://github.com/ssshddd/DrugRec)
+- [NeurIPS 2022] ESCADA: Efficient Safe and Context Aware Dose Allocation for Precision Medicine
+[CODE](https://github.com/Bilkent-CYBORG/ESCADA)
+- [CIKM 2022] Leveraging Multiple Types of Domain Knowledge for Safe and Effective Drug Recommendation
+- [WWW 2022] Conditional Generation Net for Medication Recommendation
+[PDF](https://arxiv.org/pdf/2202.06588)
+[CODE](https://github.com/BarryRun/COGNet)
+- [ICLR投稿 2022] Knowledge-Driven New Drug Recommendation
+[PDF](https://arxiv.org/pdf/2210.05572.pdf)
+- [CIKM 2021] Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication Recommendation
 - [IJCAI 2021] SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations
 [PDF](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210502711Y/EPRINT_PDF)
 [CODE](https://github.com/ycq091044/SafeDrug)
