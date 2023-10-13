@@ -24,14 +24,30 @@
 - [IJCAI 2021] SafeDrug: Dual Molecular Graph Encoders for Safe Drug Recommendations
 [PDF](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210502711Y/EPRINT_PDF)
 [CODE](https://github.com/ycq091044/SafeDrug)
+- [IJCAI 2021] Self-supervised adversarial distribution regularization for medication recommendation
+[PDF](https://www.ijcai.org/proceedings/2021/0431.pdf)
+[CODE](https://github.com/yanda-wang/SARMR)
 - [2021] Drug Package Recommendation via Interaction-aware Graph Induction∗
 [PDF](https://arxiv.org/pdf/2102.03577)
+- [2020] SMR: Medical Knowledge Graph Embedding for Safe Medicine Recommendation
+[PDF](https://arxiv.org/pdf/1710.05980.pdf)
 - [AAAI 2019] GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination
 [PDF](https://arxiv.org/abs/1809.01852)
 [CODE](https://github.com/sjy1203/GAMENet)
+- [IJCAI 2019] Pre-training of graph augmented transformers for medication recommendation
+[PDF](https://arxiv.org/pdf/1906.00346.pdf)
+[CODE](https://github.com/jshang123/G-Bert)
+[CIKM 2019](Order-free Medicine Combination Prediction with Graph Convolutional Reinforcement Learning)
+[PDF](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-order-free.pdf)
+[CODE](https://github.com/WOW5678/CompNet)
 - [2018] Kernelized rank learning for personalized drug recommendation
 [PDF](https://academic.oup.com/bioinformatics/article/34/16/2808/4924716?login=false)
 [CODE](https://github.com/BorgwardtLab/Kernelized-Rank-Learning)
+- [KDD 2017] LEAP: learning to prescribe effective and safe treatment combinations for multimorbidity
+[PDF](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD17-Zhang-et-al-LEAP-DL-pred-Healthcare.pdf)
+[CODE](https://github.com/neozhangthe1/AutoPrescribe)
+- [ICLR 2017] Predicting medications from diagnostic codes with recurrent neural networks
+[pdf](https://openreview.net/pdf?id=rJEgeXFex)
 
 # 信息抽取
 - [2022] A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text
