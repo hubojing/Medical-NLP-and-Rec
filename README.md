@@ -50,6 +50,8 @@
 [pdf](https://openreview.net/pdf?id=rJEgeXFex)
 
 # 信息抽取
+- [2023] A BERT-Span Model for Named Entity Recognition in Rehabilitation Medicine
+[PDF](https://www.researchsquare.com/article/rs-2588490/latest.pdf)
 - [2022] A Unified Framework of Medical Information Annotation and Extraction for Chinese Clinical Text
 [PDF](https://arxiv.org/pdf/2203.03823)
 [CODE](https://github.com/syuoni/eznlp)
