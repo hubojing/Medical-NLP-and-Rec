@@ -70,3 +70,6 @@
 # 预训练模型
 - ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
 - BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining
+
+# 大模型
+- [Meditron](https://github.com/epfLLM/meditron)
