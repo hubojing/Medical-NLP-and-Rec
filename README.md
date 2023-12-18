@@ -1,3 +1,19 @@
+# 大模型
+- [Meditron](https://github.com/epfLLM/meditron)
+## 中文医疗大模型
+- [PULSE](https://github.com/openmedlab/PULSE)
+- [qizhenGPT](https://github.com/CMKRG/QiZhenGPT)
+- [MING](https://github.com/MediaBrain-SJTU/MING)
+- [DoctorGLM](https://github.com/xionghonglin/DoctorGLM)
+- [ChatGLM-Med](https://github.com/SCIR-HI/Med-ChatGLM)
+- [HuaTuoGPT2](https://github.com/FreedomIntelligence/HuatuoGPT-II)
+- [MedicalGPT](https://github.com/shibing624/MedicalGPT)
+- [CareGPT](https://github.com/WangRongsheng/CareGPT)
+- [ChatMed](https://github.com/michael-wzhu/ChatMed)
+- [BenTsao](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
+- [BianQue](https://github.com/scutcyr/BianQue)
+- [XrayGLM](https://github.com/WangRongsheng/XrayGLM)
+
 # 药品推荐
 - [WWW 2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
 [PDF](https://www.researchgate.net/profile/Nianzu-Yang/publication/368454974_MoleRec_Combinatorial_Drug_Recommendation_with_Substructure-Aware_Molecular_Representation_Learning/links/6450ced097449a0e1a6fa561/MoleRec-Combinatorial-Drug-Recommendation-with-Substructure-Aware-Molecular-Representation-Learning.pdf)
@@ -71,5 +87,4 @@
 - ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
 - BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining
 
-# 大模型
-- [Meditron](https://github.com/epfLLM/meditron)
+
