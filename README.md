@@ -13,6 +13,10 @@
 - [BenTsao](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
 - [BianQue](https://github.com/scutcyr/BianQue)
 - [XrayGLM](https://github.com/WangRongsheng/XrayGLM)
+- [ShenNong-TCM-LLM](https://github.com/michael-wzhu/ShenNong-TCM-LLM)
+- [Sunsimiao](https://github.com/thomas-yanxin/Sunsimiao)
+- [SoulChat](https://github.com/scutcyr/SoulChat)
+- [MindChat](https://github.com/X-D-Lab/MindChat)
 
 # 药品推荐
 - [WWW 2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
