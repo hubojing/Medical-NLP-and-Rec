@@ -1,4 +1,5 @@
 # 大模型
+- [MedPaLM2](https://arxiv.org/pdf/2305.09617.pdf)
 - [Meditron](https://github.com/epfLLM/meditron)
 ## 中文医疗大模型
 - [PULSE](https://github.com/openmedlab/PULSE)
