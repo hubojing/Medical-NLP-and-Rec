@@ -1,6 +1,7 @@
-# 大模型
+# 医疗大模型
 - [MedPaLM2](https://arxiv.org/pdf/2305.09617.pdf)
 - [Meditron](https://github.com/epfLLM/meditron)
+- 
 ## 中文医疗大模型
 - [PULSE](https://github.com/openmedlab/PULSE)
 - [qizhenGPT](https://github.com/CMKRG/QiZhenGPT)
@@ -18,6 +19,9 @@
 - [Sunsimiao](https://github.com/thomas-yanxin/Sunsimiao)
 - [SoulChat](https://github.com/scutcyr/SoulChat)
 - [MindChat](https://github.com/X-D-Lab/MindChat)
+
+# 医疗大模型评测
+- [MedBench](https://medbench.opencompass.org.cn/)
 
 # 药品推荐
 - [WWW 2023] MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning
