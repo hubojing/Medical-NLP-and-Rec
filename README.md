@@ -74,6 +74,10 @@
 - [ICLR 2017] Predicting medications from diagnostic codes with recurrent neural networks
 [pdf](https://openreview.net/pdf?id=rJEgeXFex)
 
+# 预训练模型
+- ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
+- BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining
+
 # 信息抽取
 - [2023] A BERT-Span Model for Named Entity Recognition in Rehabilitation Medicine
 [PDF](https://www.researchsquare.com/article/rs-2588490/latest.pdf)
@@ -92,8 +96,13 @@
 [PDF](https://arxiv.org/pdf/1908.07721)
 [CODE](https://github.com/genggui001/fine_tuning_bert_for_joint_entity_and_relation_extraction_in_chinese_medical_text)
 
-# 预训练模型
-- ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
-- BioBERT: A Pre-trained Biomedical Language Representation Model for Biomedical Text Mining
+# NER
+- [NER_Chinese_medical](https://github.com/zzh-SJTU/NER_Chinese_medical)
+- [GlobalPoiner_NER](https://github.com/Bureaux-Tao/GlobalPoiner_NER)
+- [Medical-named-entity-recognition](https://github.com/F-debug/Medical-named-entity-recognition)
+- [BERT_BiLSTM_CRF_NER](https://github.com/sxwee/BERT_BiLSTM_CRF_NER)
+- [MedNER](https://github.com/Schlampig/MedNER)
+
+
 
 
