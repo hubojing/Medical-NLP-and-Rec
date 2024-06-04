@@ -1,7 +1,7 @@
 # 医疗大模型
 - [MedPaLM2](https://arxiv.org/pdf/2305.09617.pdf)
 - [Meditron](https://github.com/epfLLM/meditron)
-- 
+
 ## 中文医疗大模型
 - [PULSE](https://github.com/openmedlab/PULSE)
 - [qizhenGPT](https://github.com/CMKRG/QiZhenGPT)
@@ -102,7 +102,4 @@
 - [Medical-named-entity-recognition](https://github.com/F-debug/Medical-named-entity-recognition)
 - [BERT_BiLSTM_CRF_NER](https://github.com/sxwee/BERT_BiLSTM_CRF_NER)
 - [MedNER](https://github.com/Schlampig/MedNER)
-
-
-
-
+- [Drug knowledge extraction framework](https://github.com/zhou-ls/Drug_Knowledge_Extraction_Framework)
